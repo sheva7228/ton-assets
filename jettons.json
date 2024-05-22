@@ -2466,7 +2466,7 @@
   ]
  },
  {
-  "address": "0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe",
+  "address": "0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe",   
   "name": "Tether USD",
   "symbol": "USD\u20ae"
  },
@@ -2474,5 +2474,13 @@
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "name": "Tonstakers TON",
   "symbol": "tsTON"
- }
+ },
+  {
+  "address": "EQASxfzblvddsvfuvdBSUaiHErE_MK3GXBUC3j2-FiOUaDhB",
+  "image": "https://i.ibb.co/ZKcjQyQ/knoc-knock.png",
+  "name": "KNOCK KNOCK",
+  "social": [
+   "https://t.me/knock_knockcoin"
+   ]
+  }
 ]
