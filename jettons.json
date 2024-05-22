@@ -2474,5 +2474,13 @@
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "name": "Tonstakers TON",
   "symbol": "tsTON"
- }
+ },
+ {
+  "address": "0:12c5fcdb96f75db2f7eebdd05251a88712b13f30adc65c1502de3dbe16239468",
+  "name": "KNOCK-KNOCK",
+  "symbol": "KNOCK",
+  "decimals": "9",
+  "image": "https://cache.tonapi.io/imgproxy/efByRYhcqe81NefgsMu2Lh6lTwZjjIAXQYWdB3_Src4/rs:fill:200:200:1/g:no/aHR0cHM6Ly9pLmliYi5jby9aS2NqUXlRL2tub2Mta25vY2sucG5n.webp",
+  "description": "Knock-knock mother*er"
+}
 ]
